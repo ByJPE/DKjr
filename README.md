@@ -2,7 +2,7 @@
 
 Jeu d'arcade en HTML/JavaScript inspiré de *Donkey Kong Jr.* — un seul fichier, aucune dépendance, jouable sur **ordinateur et smartphone**.
 
-▶️ **Jouer en ligne** : `https://<ton-pseudo>.github.io/donkey-kong-jr-retro/` (après activation de GitHub Pages, voir plus bas)
+▶️ **Jouer en ligne** : https://byjpe.github.io/DKjr/
 
 ## Fonctionnalités
 - Pixel art dans le style de l'arcade : poutres, lianes, fruits variés, DK animé dans sa cage, clé, îlots-arbres et eau
